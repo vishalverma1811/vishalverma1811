@@ -1,6 +1,6 @@
 <a href="#"><img  width="100%" height="175px" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rohan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vishal Verma</h1>
 <h3 align="center">I'm passionate about learning new technologies.</h3>
 
 
@@ -33,16 +33,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/rohanmahto592/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohan Mahto's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rohanmahto592&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/vishalverma1811/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishal verma's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalverma1811&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/rohanmahto592/github-readme-stats"><img alt="Rohan Mahto's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohanmahto592&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/rohanmahto592/github-readme-stats"><img alt="Rohan Mahto's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanmahto592&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/vishalverma1811/github-readme-stats"><img alt="Vishal's verma Github Stats" src="https://github-readme-stats.vercel.app/api?username=vishalverma1811&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/vishalverma1811/github-readme-stats"><img alt="Vishal Verma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalverma1811&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 
@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/rohanmahto592/github-readme-activity-graph"><img alt="Rohan Mahto's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rohanmahto592&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/vishalverma1811/github-readme-activity-graph"><img alt="Vishal verma's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vishalverma1811&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
