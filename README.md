@@ -8,9 +8,9 @@
 
 - 🚀 I'm a third year undergrad in Information Technology(Galgotias College Of Engineering And Technology)
 - 📫 I'm helping more than 100+ students in learning *Data Structures and Algorithms.*
-- 📫 I'm *C++ Programmer*
+- 📫 I'm *Java Programmer*
 - 🌱 I’m currently learning *Data Structures and Algorithms.*
-- 📫 How to reach me *rohanmahto592@gmail.com*
+- 📫 How to reach me *vishalverma1523@gmail.com*
 - ⚡ Fun fact *I have broken humor and go to the GYM very often.*
 
 ## 🚀 Languages and Tools:
@@ -58,13 +58,13 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/rohan-mahto-619a491aa"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/vishal-verma-97aa981a8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<a href = "https://www.instagram.com/rohan_mahto_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/its_.vishal._1809/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/rohanmahto592/github-profile-views-counter">
+<a href="https://github.com/vishalverma1811/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=rohanmahto592">
 </a>
-<a href="https://github.com/rohanmahto592?tab=followers"><img src="https://img.shields.io/github/followers/rohanmahto592?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/vishalverma1811?tab=followers"><img src="https://img.shields.io/github/followers/rohanmahto592?label=Followers&style=social" alt="GitHub Badge"></a>
