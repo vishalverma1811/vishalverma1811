@@ -20,7 +20,8 @@
     <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a> 
      <a href="https://www.c++.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/> </a>
     <a style="padding-right:8px;" href="https://unity.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/unity.png"/> </a> 
-     <a style="padding-right:8px;" href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/c-sharp-logo.png"/> </a> 
+     <a style="padding-right:8px;" href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/c-sharp-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"> <img src="https://img.icons8.com/external-flaticons-flat-circular-flat-icons/344/external-machine-learning-automation-technology-flaticons-flat-circular-flat-icons.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 <!--     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  -->
     
