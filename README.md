@@ -18,7 +18,7 @@
 <p align="left"> 
     <a href="https://www.c++.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="[https://img.icons8.com/color/48/000000/html-5.png](https://banner2.cleanpng.com/20180715/gzu/kisspng-java-development-kit-software-development-kit-comp-programming-language-icon-5b4b9cb1e74f20.0073080715316819699475.jpg)"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
      <a href="https://reactjs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="express" width="60" height="60"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  
