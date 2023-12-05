@@ -7,8 +7,8 @@
 ## 🙋‍♂️ About Me
 
 - 🚀 I'm a third year undergrad in Information Technology(Galgotias College Of Engineering And Technology)
-- 📫 I'm *Java Programmer*
-- 🌱 I’m currently learning *Data Structures and Algorithms.*
+- 📫 I'm *Android Developer*
+- 🌱 I’m currently working on *Flutter.*
 - 📫 How to reach me *vishalverma1523@gmail.com*
 - ⚡ Fun fact *I have broken humor and go to the GYM very often.*
 
