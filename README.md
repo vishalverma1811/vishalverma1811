@@ -25,6 +25,7 @@
     <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank"> <img src="https://img.icons8.com/external-flaticons-flat-circular-flat-icons/48/external-data-science-data-analytics-flaticons-flat-circular-flat-icons.png"/> </a>
     <a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank"> <img src="https://img.icons8.com/external-flat-satawat-anukul/48/external-trading-trading-flat-style-flat-satawat-anukul-19.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://icons8.com/icon/pCvIfmctRaY8/flutter"/> </a>
 <!--     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  -->
     
 </p>
