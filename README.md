@@ -25,10 +25,10 @@
     <a href="https://en.wikipedia.org/wiki/Data_science" target="_blank"> <img src="https://img.icons8.com/external-flaticons-flat-circular-flat-icons/48/external-data-science-data-analytics-flaticons-flat-circular-flat-icons.png"/> </a>
     <a href="https://en.wikipedia.org/wiki/Data_analysis" target="_blank"> <img src="https://img.icons8.com/external-flat-satawat-anukul/48/external-trading-trading-flat-style-flat-satawat-anukul-19.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a style="padding-right:8px;" href="https://flutter.dev/" target="_blank"> <img src="![image](https://github.com/vishalverma1811/vishalverma1811/assets/106256341/af5b5ef4-cb3a-40b3-aa54-83f1b5e0b053)
-"/> </a>
+    <a style="padding-right:8px;" href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/flutter.png"/> </a>
 <!--     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  -->
     
+
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
