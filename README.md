@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🚀 I'm a third year undergrad in Information Technology(Galgotias College Of Engineering And Technology)
+- 🚀 I am a graduate in Information Technology from Galgotias College of Engineering and Technology.
 - 📫 I'm *Android Developer*
 - 🌱 I’m currently working on *Flutter.*
 - 📫 How to reach me *vishalverma1523@gmail.com*
