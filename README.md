@@ -16,7 +16,7 @@
 
 <p align="left"> 
     <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
-    <a href="https://www.java.com/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a> 
+    <a href="https://www.java.com/en/" target="_blank"> <img src="[https://img.icons8.com/color/48/000000/java.png](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)"/> </a> 
      <a href="https://www.c++.com" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/c-plus-plus-logo.png"/> </a>
     <a style="padding-right:8px;" href="https://unity.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/unity.png"/> </a> 
      <a style="padding-right:8px;" href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/c-sharp-logo.png"/> </a>
